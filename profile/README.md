@@ -8,7 +8,9 @@
 
 ---
 
-Indústria torrefadora brasileira, em Ourinhos, São Paulo.
+<p align="center">
+  Indústria torrefadora brasileira, em Ourinhos, São Paulo.
+</p>
 
 <p align="center">
   <a href="https://www.cafejaguari.com.br">cafejaguari.com.br</a>
