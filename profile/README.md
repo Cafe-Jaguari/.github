@@ -12,8 +12,6 @@
 
 Indústria torrefadora brasileira, em Ourinhos, São Paulo.
 
-Torra e mói café, e o entrega em grão, pó, cápsula e solúvel.
-
 <p align="center">
   <a href="https://www.cafejaguari.com.br">cafejaguari.com.br</a>
 </p>
